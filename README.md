@@ -1,5 +1,3 @@
-# Ejercicio1
-entrega1
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,10 +7,8 @@ entrega1
     <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
 </head>
 <body>
-    <p>Este es mi primer comentario de dos líneas</p>
-    <span>Aprendiendo a documentar mi código con OpenBootcamp</span>
-    <ul>
-    <div>
+    <!--Este es mi primer comentario de dos lines
+    aprendiendo a documentar mi código con OpenBootcamp-->
         <li>
     <a href="https://youtu.be/CocEMWdc7Ck">SHAKIRA || BZRP Music Sessions #53</a>
 </li>
